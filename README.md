@@ -35,7 +35,10 @@ git clone https://github.com/KvaCl/benchmark
 ```bash
 pip install -r requirements.txt
 ```
-
+3.Запуск программы
+```bash
+python bench.py -H https://ya.ru,https://google.com -C 5
+```
 Пример вывода:
 
 ```bash
