@@ -20,7 +20,8 @@
 - параллельное выполнение запросов с помощью asyncio,aiohttp.
 
 ##Примера вывода
-'''bash
+
+```bash
 Host:https://ya.ru
 Success:5
 Failed:0
@@ -38,4 +39,4 @@ Min:0.477
 Max:0.563
 Avg:0.500
 
-'''
+```
